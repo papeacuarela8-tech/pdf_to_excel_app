@@ -15,7 +15,7 @@ Aplicación web local desarrollada con **Flask** y **Python** para procesar y ex
 
 1. Clona este repositorio o descárgalo en el nuevo dispositivo:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/papeacuarela8-tech/pdf_to_excel_app.git
    cd pdf_to_excel_app
    ```
 
