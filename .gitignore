@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS generated files
+desktop.ini
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Temporary / testing files
+temp_top.jpg
+ocr_page_*
+temp/
+uploads/
